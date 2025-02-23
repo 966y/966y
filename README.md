@@ -11,5 +11,4 @@
          <a href="https://discord.com/users/1173244265900556333"><img src="https://skillicons.dev/icons?i=discord"/></a>
          <a href="https://www.instagram.com/loysnk"><img src="https://skillicons.dev/icons?i=instagram"/></a>
     </div>
-   <hr>
 </div>
