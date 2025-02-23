@@ -19,7 +19,7 @@ import Developer from "loysnk";
 
 class AboutMe extends Developer {
   nome = "Matheus Felipe";
-  idade = 18;
+  idade = 19;
   local = "Goiânia, GO";
 }
 ```
