@@ -1,7 +1,7 @@
 <div align="center">
     <strong>I'm loysnk 👋🏻</strong>
     <hr>
-    <img height="160px" width="160px" src="https://images-ext-1.discordapp.net/external/KJQDVTUmdLQdAxeT0uzLO6IhOuec-QV66UuIMW0KtsE/%3Fsize%3D2048/https/cdn.discordapp.com/emojis/1342536903249104907.png?format=webp&quality=lossless&width=160&height=160">
+    <img height="160px" width="160px" src="https://img1.picmix.com/output/stamp/normal/3/2/3/6/2066323_a9fce.gif">
     <hr>
     <div align="center">
         <img src="https://skillicons.dev/icons?i=html,css,js"/>
